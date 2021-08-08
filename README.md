@@ -18,4 +18,4 @@ For this project, i had a challenge to build out this landing page from the desi
 ## IV/ Disclaimer 
 This project is a just nice simple website to help me out understanding some fundamental concepts in CSS preprocessor & in order to help me to improve my coding skills. ***Contact me if you have any recommandations***
 
-***<p align="center">Thanks for checking ❤️<p>***
+***<p align="center">Thanks for checking. ❤️<p>***
